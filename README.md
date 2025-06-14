@@ -10,7 +10,7 @@ Track real-time satellite passes (like the ISS) over any location using Python, 
 
 The app fetches upcoming satellite passes over a chosen location and displays them along with a Leaflet.js map marking the observer's position.
 
-![screenshot](assets/screenshot.png)
+
 
 ---
 
