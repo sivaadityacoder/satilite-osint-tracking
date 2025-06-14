@@ -6,7 +6,7 @@ import numpy as np
 import os
 from flask import Flask, render_template_string
 
-API_KEY = '62YKNK-M4TZJX-5BB6WQ-5I6Q'  # Replace with your API key
+API_KEY = 'give your api '  # Replace with your API key
 LAT, LON, ALT = 28.6139, 77.2090, 0  # Your location (example: New Delhi)
 SAT_ID = 25544  # ISS
 
