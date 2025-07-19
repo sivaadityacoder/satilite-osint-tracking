@@ -1,4 +1,4 @@
-# 🛰️ Satellite OSINT Tracker
+# Satellite OSINT Tracker
 
 Track real-time satellite passes (like the ISS) over any location using Python, Flask, and the N2YO Satellite API.
 
@@ -6,7 +6,7 @@ Track real-time satellite passes (like the ISS) over any location using Python, 
 
 ---
 
-## 🌐 Live Preview
+##  Live Preview
 
 The app fetches upcoming satellite passes over a chosen location and displays them along with a Leaflet.js map marking the observer's position.
 
@@ -14,18 +14,18 @@ The app fetches upcoming satellite passes over a chosen location and displays th
 
 ---
 
-## 📦 Features
+## Features
 
-- 🛰️ Real-time satellite pass tracking using N2YO API
-- 📡 Observer-defined location (latitude/longitude)
-- 🕒 Pass details: Start/End times, Azimuth, Max Elevation
-- 🌍 Live map (Leaflet + OpenStreetMap)
-- 🗂️ API response logging in `/logs/ISS_passes.json`
-- 🔐 Secure error handling and graceful fallbacks
+- Real-time satellite pass tracking using N2YO API
+-  Observer-defined location (latitude/longitude)
+-  Pass details: Start/End times, Azimuth, Max Elevation
+-  Live map (Leaflet + OpenStreetMap)
+- API response logging in `/logs/ISS_passes.json`
+- Secure error handling and graceful fallbacks
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the repo
 
